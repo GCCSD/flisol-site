@@ -1,0 +1,80 @@
+body{
+	background:transparent url(../imagens/bg.png) repeat-x fixed;
+	line-height:180%;
+	margin:0;
+	padding:0;}
+
+h2#topo{
+	width:500px;
+	height:209px;
+	text-align:center;
+	float:right;
+	margin:2% 20% 0 0;}
+
+h3,h4{
+	color:#008B00;}
+
+#tudo{
+	width:100%;
+	margin:0;}
+
+#layout{
+	margin:0 auto;
+	width:90%;
+	background-color:#fff;
+	padding:0 20px;}
+
+#menu{
+	width:100%;
+	margin:5px;
+	list-style-type:none;
+	padding:6px 0;
+	float:left;
+	text-align:center;
+	font-family:Arial, Verdana, sans-serif;
+	font-variant:small-caps;}
+
+#menu li{
+	display:inline;
+	margin:0 30px;}
+
+#menu li a{
+	color:#FF8C00;
+	text-decoration:none;}
+
+#menu li a:hover{
+	font-weight:bold;}
+
+#conteudo{
+	float:left;
+	width:680px;
+	text-align:justify;}
+
+#coluna{
+	float:right;
+	width:400px;
+	height:300px;
+	margin-bottom:30px;}
+
+#rodape{
+	clear:both;
+	text-align:center;
+	border-top:1px solid #eaeaea;}
+
+#menurodape{
+	width:100%;
+	list-style-type:none;
+	text-align:center;
+	font-family:Arial, Verdana, sans-serif;
+	font-size:14px;
+	font-variant:small-caps;}
+
+#menurodape li{
+	display:inline;
+	margin:0 30px;}
+
+#menurodape li a{
+	color:#CDC9C9;}
+
+#menurodape li a:hover{
+	text-decoration:none;}
