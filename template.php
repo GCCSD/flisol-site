@@ -23,11 +23,34 @@
 
                 <div id="lateral">
                     <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="300" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                    <h1>Patrocínio</h1>
+                    <ul>
+                        <li>
+                            <a href="http://jacaretecnologia.com.br/" title="Jacaré Tecnologia">
+                                <img src="<?php echo URL; ?>imagens/jacare.png" alt="Jacaré Tecnologia" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://casoft.info/" title="CaSoft">
+                                <img src="<?php echo URL; ?>imagens/casoft.png" alt="CaSoft" />
+                            </a>
+                        </li>
+                    </ul>
                     <h1>Apoio</h1>
                     <ul>
                         <li>
                             <a href="microcamp" title="Microcamp Guarujá">
                                 <img src="<?php echo URL; ?>imagens/microcamp.jpg" alt="Microcamp Guarujá" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.lojainfoweb.com/" title="Infoweb">
+                                <img src="<?php echo URL; ?>imagens/infoweb.png" alt="Infoweb" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="Logical" title="Logical">
+                                <img src="<?php echo URL; ?>imagens/logical.jpg" alt="Logical" />
                             </a>
                         </li>
                     </ul>
@@ -42,7 +65,9 @@
                         <img src="<?php echo URL; ?>imagens/gnulinux.png" alt="Gnu/Linux" />
                     </div>
                     <div id="gccsd">
-                        <img src="<?php echo URL; ?>imagens/gccsd.png" alt="GCCSD" />
+                        <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
+                            <img src="<?php echo URL; ?>imagens/gccsd.png" alt="GCCSD" />
+                        </a>
                     </div>
                     <div id="meio">
                         <p>Festival Latino Americano de Instalação de Software Livre</p>
