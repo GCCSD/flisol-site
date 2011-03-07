@@ -20,7 +20,11 @@ if (isset($_GET['pagina'])) {
             break;
         case 'programacao':
             $pagina = 'programacao.php';
-            $titulo = 'Programação do evento';
+            $titulo = 'Programação - Flisol Santos 2011';
+            break;
+        case 'local':
+            $pagina = 'local.php';
+            $titulo = 'Local - Flisol Santos 2011';
             break;
         default:
             $pagina = '404.php';

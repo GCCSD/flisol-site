@@ -17,11 +17,12 @@
                     <li><a href="<?php echo URL; ?>programacao">programação</a></li>
                     <li><a href="<?php echo URL; ?>prepare-se">prepare-se!</a></li>
                     <li><a href="<?php echo URL; ?>organizadores">organizadores</a></li>
+                    <li><a href="<?php echo URL; ?>local">local</a></li>
                     <li><a href="<?php echo URL; ?>contato">contato</a></li>
                 </ul>
 
                 <div id="lateral">
-                    <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="300" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                    <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="300" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
                     <h1>Apoio</h1>
                     <ul>
                         <li>
