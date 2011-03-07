@@ -18,6 +18,10 @@ if (isset($_GET['pagina'])) {
             $pagina = 'principal.php';
             $titulo = 'Flisol Santos 2011';
             break;
+        case 'programacao':
+            $pagina = 'programacao.php';
+            $titulo = 'Programação do evento';
+            break;
         default:
             $pagina = '404.php';
             $titulo = 'Ops! Página não encontrada!';

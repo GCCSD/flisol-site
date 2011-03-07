@@ -25,24 +25,35 @@ h1, h2, h3, h4 {
 #menu {
     margin:5px;
     text-align: left;
+    padding: 0px;
 }
 
-#menu li{
-    display:inline;
+#menu li {
+    display:inline-block;
+    padding: 4px;
+    border: 1px solid;
+    background-color: #FF8C00;
 }
 
-#menu li a{
-    color:#FF8C00;
-    text-decoration:none;}
+#menu li a {
+    color: #FFF;
+    text-decoration: none;
+}
 
 #menu li a:hover {
     text-decoration: underline;
 }
 
-#conteudo{
-    float:left;
-    width:680px;
-    text-align:justify;}
+#lateral {
+    float: right;
+    width: 300px;
+}
+
+#conteudo {
+    float: left;
+    width: 580px;
+    text-align: justify;
+}
 
 #coluna{
     float:right;
