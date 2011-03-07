@@ -30,6 +30,10 @@ if (isset($_GET['pagina'])) {
             $pagina = 'prepare-se.php';
             $titulo = 'Prepare-se! - Flisol Santos 2011';
             break;
+        case 'organizadores':
+            $pagina = 'organizadores.php';
+            $titulo = 'Organizadores - Flisol Santos 2011';
+            break;
         default:
             $pagina = '404.php';
             $titulo = 'Ops! Página não encontrada!';

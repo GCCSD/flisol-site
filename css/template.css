@@ -97,9 +97,10 @@ a img {
 }
 
 #rodape{
-    clear:both;
+    clear: both;
     text-align: center;
     font-size: 12px;
+    padding-top: 50px;
 }
 
 #rodape #gccsd {
