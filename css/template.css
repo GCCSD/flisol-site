@@ -5,6 +5,10 @@ body {
     margin: 0px;
 }
 
+.limpar {
+    clear: both;
+}
+
 h1, h2, h3, h4 {
     color: #008B00;
 }
@@ -49,6 +53,32 @@ h1, h2, h3, h4 {
     width: 300px;
 }
 
+#lateral ul {
+    padding: 0px;
+    border: 0px;
+}
+
+#lateral li {
+    display: block;
+    width: 300px;
+    border: 0px;
+    padding: 0px;
+}
+
+#lateral li a {
+    text-decoration: none;
+    border: 0px !important;
+}
+
+a img {
+    text-decoration: none;
+    border: 0px;
+}
+
+#lateral li a:hover {
+    text-decoration: none;
+}
+
 #conteudo {
     float: left;
     width: 580px;
@@ -63,8 +93,26 @@ h1, h2, h3, h4 {
 
 #rodape{
     clear:both;
-    text-align:center;
-    border-top:1px solid #eaeaea;}
+    text-align: center;
+    font-size: 12px;
+}
+
+#rodape #gccsd {
+    width: 177px;
+    float: left;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+
+#rodape #gnulinux {
+    width: 150px;
+    float: right;
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+}
+
 
 #menurodape{
     width:100%;

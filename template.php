@@ -22,6 +22,14 @@
 
                 <div id="lateral">
                     <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="300" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                    <h1>Apoio</h1>
+                    <ul>
+                        <li>
+                            <a href="microcamp" title="Microcamp Guarujá">
+                                <img src="<?php echo URL; ?>imagens/microcamp.jpg" alt="Microcamp Guarujá" />
+                            </a>
+                        </li>
+                    </ul>
                 </div>
 
                 <div id="conteudo">
@@ -29,17 +37,19 @@
                 </div>
 
                 <div id="rodape">
-                    <ul id="menurodape">
-                        <li><a href="#">sobre o flisol</a></li>
-                        <li><a href="#">localização</a></li>
-                        <li><a href="#">prepare-se</a></li>
-                        <li><a href="#">programação</a></li>
-                        <li><a href="#">organizadores</a></li>
-                    </ul>
-
-                    <p>Festival Latino Americano de Instalação de Software Livre</p>
-
+                    <div id="gnulinux">
+                        <img src="<?php echo URL; ?>imagens/gnulinux.png" alt="Gnu/Linux" />
+                    </div>
+                    <div id="gccsd">
+                        <img src="<?php echo URL; ?>imagens/gccsd.png" alt="GCCSD" />
+                    </div>
+                    <div id="meio">
+                        <p>Festival Latino Americano de Instalação de Software Livre</p>
+                        <p>Santos</p>
+                        <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
+                    </div>
                 </div>
+                <div class="limpar"></div>
             </div>
         </div>
     </body>
