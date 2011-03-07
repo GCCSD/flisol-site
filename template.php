@@ -10,18 +10,17 @@
         <div id="tudo">
             <div id="layout">
 
-                <img src="<?php echo URL; ?>imagens/logo.png" alt="Flisol em Santos, abril de 2011" />
-
-                <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="760" height="728" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                <img src="<?php echo URL; ?>imagens/topo.png" alt="Flisol em Santos, abril de 2011" />
 
                 <ul id="menu">
-                    <li><a href="index.php">sobre o flisol</a></li>
-                    <li><a href="index.php">organizadores</a></li>
-                    <li><a href="index.php">programação</a></li>
-                    <li><a href="index.php">prepare-se!</a></li>
-                    <li><a href="index.php">contato</a></li>
+                    <li><a href="<?php echo URL; ?>">sobre o flisol</a></li>
+                    <li><a href="<?php echo URL; ?>organizadores">organizadores</a></li>
+                    <li><a href="<?php echo URL; ?>programacao">programação</a></li>
+                    <li><a href="<?php echo URL; ?>prepare-se">prepare-se!</a></li>
+                    <li><a href="<?php echo URL; ?>contato">contato</a></li>
                 </ul>
 
+                <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="400" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
                 <div id="conteudo">
                     <?php include('paginas/'.$pagina); ?>

@@ -11,8 +11,6 @@
 
 define('URL', 'http://flisol/');
 
-print_r($_GET);
-
 // Definindo a página a ser exibida
 if (isset($_GET['pagina'])) {
     switch ($_GET['pagina']) {
