@@ -70,8 +70,7 @@
                         </a>
                     </div>
                     <div id="meio">
-                        <p>Festival Latino Americano de Instalação de Software Livre</p>
-                        <p>Santos</p>
+                        <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
                         <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
                     </div>
                 </div>
