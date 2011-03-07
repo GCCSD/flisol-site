@@ -14,10 +14,10 @@
 
                 <ul id="menu">
                     <li><a href="<?php echo URL; ?>">sobre o flisol</a></li>
+                    <li><a href="<?php echo URL; ?>local">local</a></li>
                     <li><a href="<?php echo URL; ?>programacao">programação</a></li>
                     <li><a href="<?php echo URL; ?>prepare-se">prepare-se!</a></li>
                     <li><a href="<?php echo URL; ?>organizadores">organizadores</a></li>
-                    <li><a href="<?php echo URL; ?>local">local</a></li>
                     <li><a href="<?php echo URL; ?>contato">contato</a></li>
                 </ul>
 
