@@ -34,6 +34,10 @@ if (isset($_GET['pagina'])) {
             $pagina = 'organizadores.php';
             $titulo = 'Organizadores - Flisol Santos 2011';
             break;
+        case 'fotos':
+            $pagina = 'fotos.php';
+            $titulo = 'Fotos - Flisol Santos 2011';
+            break;
         default:
             $pagina = '404.php';
             $titulo = 'Ops! Página não encontrada!';
