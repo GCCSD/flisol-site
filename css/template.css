@@ -29,6 +29,7 @@ h1, h2, h3, h4 {
 #menu {
     margin:5px;
     text-align: left;
+    font-weight: bold;
     padding: 0px;
     font-size: 14px;
 }
@@ -51,6 +52,7 @@ h1, h2, h3, h4 {
 
 #lateral {
     float: right;
+    margin-top: 80px;
     width: 300px;
 }
 
@@ -84,7 +86,7 @@ a img {
 
 #conteudo {
     float: left;
-    width: 580px;
+    width: 550px;
     text-align: justify;
 }
 
