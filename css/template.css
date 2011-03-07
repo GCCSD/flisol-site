@@ -1,8 +1,7 @@
 body{
 	background:transparent url(../imagens/bg.png) repeat-x fixed;
-	line-height:180%;
-	margin:0;
-	padding:0;}
+    font-family: sans-serif;
+}
 
 h2#topo{
 	width:500px;
@@ -19,10 +18,11 @@ h3,h4{
 	margin:0;}
 
 #layout{
-	margin:0 auto;
-	width:90%;
-	background-color:#fff;
-	padding:0 20px;}
+	margin: 0px auto;
+	width: 900px;
+	background-color: #FFF;
+	padding: 10px;
+}
 
 #menu{
 	width:100%;
