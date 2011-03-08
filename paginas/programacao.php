@@ -14,9 +14,9 @@
     <li><strong>Palestra "Desafio das Línguas" por Emilio Cid</strong> (horario a definir)</li>
     <li><strong>Palestra “Sustentabilidade de Projetos de Software Livre e Padrões Abertos” por Evaldo Junior</strong> (horário a definir)</li>
 </ul>
-<h2>Debate</h2>
+<h2>Outras atividades</h2>
 <ul>
-    <li><strong>Debate "Software Livre e a Sociedade"</strong> (horário a definir)</li>
+    <li><strong>Debate "Software Livre e a Sociedade"</strong> (horário a definir);</li>
+    <li><strong>Dojo de Programação</strong> (horário a definir);</li>
+    <li><strong>Sorteio de Brindes</strong> (durante o dia);</li>
 </ul>
-<h2>Outros</h2>
-<p>Durante o dia serão sorteados brindes oferecidos por nossos apoiadores.</p>

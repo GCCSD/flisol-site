@@ -12,7 +12,7 @@
 
                 <ul id="menu">
                     <li><a href="<?php echo URL; ?>">Flisol</a></li>
-                    <li><a href="<?php echo URL; ?>data_hora">Data e Hora</a></li>
+                    <li><a href="<?php echo URL; ?>data_hora">Data, Hora e Local</a></li>
                     <li><a href="<?php echo URL; ?>programacao">Programação</a></li>
                     <li><a href="<?php echo URL; ?>prepare-se">Prepare-se!</a></li>
                     <li><a href="<?php echo URL; ?>organizadores">Organização</a></li>
@@ -25,6 +25,16 @@
 
                 <div id="lateral">
                     <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="300" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+                    <h1>Realização</h1>
+                    <ul>
+                        <li>
+                            <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
+                                <img src="<?php echo URL; ?>imagens/gccsd.png" alt="GCCSD" />
+                            </a>
+                        </li>
+                    </ul>
+
                     <h1>Patrocínio</h1>
                     <ul>
                         <li>
@@ -38,6 +48,7 @@
                             </a>
                         </li>
                     </ul>
+
                     <h1>Apoio</h1>
                     <ul>
                         <li>
@@ -63,19 +74,12 @@
                 </div>
 
                 <div id="rodape">
-                    <div id="gnulinux">
-                        <img src="<?php echo URL; ?>imagens/gnulinux.png" alt="Gnu/Linux" />
-                    </div>
-                    <div id="gccsd">
-                        <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
-                            <img src="<?php echo URL; ?>imagens/gccsd.png" alt="GCCSD" />
-                        </a>
-                    </div>
                     <div id="meio">
-                        <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
                         <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
+                        <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
                         <p>Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="http://twitter.com/DiegoSouza9" title="Twitter do Apu">Apu</a>, <a href="http://cassialuz.casoft.info/" title="Blog da Cássia Luz">Cássia Luz</a> e <a href="http://infog.casoft.info/" title="Blog do InFog">InFog</a></p>
                     </div>
+                    <div class="limpar"></div>
                 </div>
                 <div class="limpar"></div>
             </div>
