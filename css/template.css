@@ -1,5 +1,6 @@
 body {
-    background:transparent url(../imagens/bg.png) repeat-x fixed;
+    /* background:transparent url(../imagens/bg.png) repeat-x fixed; */
+    background-color: #FFF;
     font-family: sans-serif;
     padding: 0px;
     margin: 0px;
@@ -22,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4 {
-    color: #0134C6;
+    color: #1f4C83;
 }
 
 h1 {
@@ -43,21 +44,25 @@ h2 {
     margin: 0px auto;
     width: 900px;
     background-color: #FFF;
-    padding: 10px;
+    padding: 0px 10px;
 }
 
 #menu {
     text-align: left;
     font-weight: bold;
-    padding: 0px;
-    font-size: 14px;
+    padding: 0px 0px 0px 4px;
+    font-size: 12px;
+    position: absolute;
+    top: 179px;
 }
 
 #menu li {
     display: inline-block;
-    padding: 4px;
-    border: 1px solid #47270b;
-    background-color: #FF8C00;
+    padding: 14px 10px 0px 4px;
+    height: 44px;
+    background-image: url(../imagens/sep_menu.png);
+    background-position: top right;
+    background-repeat: no-repeat;
 }
 
 #menu li a {
@@ -66,12 +71,12 @@ h2 {
 }
 
 #menu li a:hover {
-    text-decoration: underline;
+    color: #FFDD55;
 }
 
 #lateral {
     float: right;
-    margin-top: 80px;
+    margin-top: 30px;
     width: 300px;
 }
 
@@ -110,7 +115,7 @@ a img {
 }
 
 #conteudo h1, #conteudo h2 {
-    border-bottom: 2px solid #0134C6;
+    border-bottom: 2px solid #1f4C83;
 }
 
 #coluna{

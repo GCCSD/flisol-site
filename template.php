@@ -10,16 +10,18 @@
         <div id="tudo">
             <div id="layout">
 
-                <img src="<?php echo URL; ?>imagens/topo.png" alt="Flisol em Santos, abril de 2011" />
-
                 <ul id="menu">
-                    <li><a href="<?php echo URL; ?>">Sobre o flisol</a></li>
-                    <li><a href="<?php echo URL; ?>data_hora">Onde? Quando?</a></li>
+                    <li><a href="<?php echo URL; ?>">Flisol</a></li>
+                    <li><a href="<?php echo URL; ?>data_hora">Data e Hora</a></li>
                     <li><a href="<?php echo URL; ?>programacao">Programação</a></li>
                     <li><a href="<?php echo URL; ?>prepare-se">Prepare-se!</a></li>
-                    <li><a href="<?php echo URL; ?>organizadores">Organizadores</a></li>
+                    <li><a href="<?php echo URL; ?>organizadores">Organização</a></li>
                     <li><a href="<?php echo URL; ?>fotos">Fotos</a></li>
                 </ul>
+
+                <img src="<?php echo URL; ?>imagens/topo_flisol.png" alt="Flisol em Santos, abril de 2011" />
+
+                <div class="limpar"></div>
 
                 <div id="lateral">
                     <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="300" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
