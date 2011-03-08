@@ -28,7 +28,7 @@ a:hover {
 }
 
 h1, h2, h3, h4 {
-    color: #1f4C83;
+    color: #1F4C83;
 }
 
 h1 {
@@ -87,6 +87,7 @@ h2 {
 
 #lateral h1 {
     font-size: 18px;
+    border-bottom: 1px solid #1F4C83;
 }
 
 #lateral ul {
