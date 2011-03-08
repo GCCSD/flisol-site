@@ -18,3 +18,5 @@
 <ul>
     <li><strong>Debate "Software Livre e a Sociedade"</strong> (horário a definir)</li>
 </ul>
+<h2>Outros</h2>
+<p>Durante o dia serão sorteados brindes oferecidos por nossos apoiadores.</p>

@@ -22,7 +22,7 @@ a:hover {
 }
 
 h1, h2, h3, h4 {
-    color: #008B00;
+    color: #0134C6;
 }
 
 h1 {
@@ -107,6 +107,10 @@ a img {
     float: left;
     width: 550px;
     text-align: justify;
+}
+
+#conteudo h1, #conteudo h2 {
+    border-bottom: 2px solid #0134C6;
 }
 
 #coluna{

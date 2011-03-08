@@ -14,7 +14,7 @@
 
                 <ul id="menu">
                     <li><a href="<?php echo URL; ?>">Sobre o flisol</a></li>
-                    <li><a href="<?php echo URL; ?>local">Local</a></li>
+                    <li><a href="<?php echo URL; ?>data_hora">Onde? Quando?</a></li>
                     <li><a href="<?php echo URL; ?>programacao">Programação</a></li>
                     <li><a href="<?php echo URL; ?>prepare-se">Prepare-se!</a></li>
                     <li><a href="<?php echo URL; ?>organizadores">Organizadores</a></li>
