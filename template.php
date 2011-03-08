@@ -73,6 +73,8 @@
                     <?php include('paginas/'.$pagina); ?>
                 </div>
 
+                <div class="limpar"></div>
+
                 <div id="rodape">
                     <div id="meio">
                         <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
