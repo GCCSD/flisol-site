@@ -17,6 +17,5 @@
 <h2>Outras atividades</h2>
 <ul>
     <li><strong>Debate "Software Livre e a Sociedade"</strong> (horário a definir);</li>
-    <li><strong>Dojo de Programação</strong> (horário a definir);</li>
     <li><strong>Sorteio de Brindes</strong> (durante o dia);</li>
 </ul>

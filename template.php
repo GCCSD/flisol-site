@@ -38,13 +38,26 @@
                     <h1>Patrocínio</h1>
                     <ul>
                         <li>
+                            <a href="http://www.apensystem.com/" title="Apen System">
+                                <img src="<?php echo URL; ?>imagens/apen.png" alt="Apen System" />
+                            </a>
+                        </li>
+                        <br />
+                        <li>
+                            <a href="http://casoft.info/" title="CaSoft">
+                                <img src="<?php echo URL; ?>imagens/casoft.png" alt="CaSoft" />
+                            </a>
+                        </li>
+                        <br />
+                        <li>
                             <a href="http://jacaretecnologia.com.br/" title="Jacaré Tecnologia">
                                 <img src="<?php echo URL; ?>imagens/jacare.png" alt="Jacaré Tecnologia" />
                             </a>
                         </li>
+                        <br />
                         <li>
-                            <a href="http://casoft.info/" title="CaSoft">
-                                <img src="<?php echo URL; ?>imagens/casoft.png" alt="CaSoft" />
+                            <a href="http://www.tecnoponta.com.br/" title="Tecnoponta">
+                                <img src="<?php echo URL; ?>imagens/tecnoponta.png" alt="Tecnoponta" />
                             </a>
                         </li>
                     </ul>
