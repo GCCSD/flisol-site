@@ -11,12 +11,11 @@
 <p>Durante o evento haverá uma área dedicada aos jogos em ambientes GNU/Linux. Esta área contará com a presença do Carlos Donizete (Coringão), criador e mantenedor do site <a href="http://www.ubuntugames.org/" title="Site do Ubuntu Games">Ubuntu Games</a>.</p>
 <h2>Palestras</h2>
 <ul>
-    <li><strong>Palestra "Desafio das Línguas" por Emilio Cid</strong> (horario a definir)</li>
-    <li><strong>Palestra “Sustentabilidade de Projetos de Software Livre e Padrões Abertos” por Evaldo Junior</strong> (horário a definir)</li>
+    <li>Palestra <strong>“Sustentabilidade de Projetos de Software Livre e Padrões Abertos”</strong> por Evaldo Junior, às 10h30;</li>
+    <li>Palestra <strong>"Desafio das Línguas"</strong> por Emilio Cid, às 15h30;</li>
 </ul>
 <h2>Outras atividades</h2>
 <ul>
-    <li><strong>Debate "Software Livre e a Sociedade"</strong> (horário a definir);</li>
-    <li><strong>Dojo de Programação</strong> (horário a definir);</li>
-    <li><strong>Sorteio de Brindes</strong> (durante o dia);</li>
+    <li>Debate <strong>"Software Livre e a Sociedade"</strong>, às 13h30;</li>
+    <li><strong>Sorteio de vagas em cursos da região e brindes</strong> durante todo o dia;</li>
 </ul>
