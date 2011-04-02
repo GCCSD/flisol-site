@@ -65,7 +65,7 @@
                     <h1>Apoio</h1>
                     <ul>
                         <li>
-                            <a href="microcamp" title="Microcamp Guarujá">
+                            <a href="http://microcampguaruja.com/" title="Microcamp Guarujá">
                                 <img src="<?php echo URL; ?>imagens/microcamp.jpg" alt="Microcamp Guarujá" />
                             </a>
                         </li>
@@ -75,8 +75,13 @@
                             </a>
                         </li>
                         <li>
-                            <a href="Logical" title="Logical">
+                            <a href="http://www.logicalguaruja.com.br/" title="Logical Guarujá">
                                 <img src="<?php echo URL; ?>imagens/logical.jpg" alt="Logical" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://unimonte.br/" title="Unimonte">
+                                <img src="<?php echo URL; ?>imagens/unimonte.jpg" alt="Unimonte" />
                             </a>
                         </li>
                     </ul>
