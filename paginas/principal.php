@@ -5,3 +5,6 @@
 
 <h2>Objetivo do evento</h2>
 <p>O objetivo do Flisol é promover o uso de software livre em geral, além de criar interações entre usuários e desenvolvedores.</p>
+
+<h2>Venha para o Flisol Santos 2011</h2>
+<iframe title="YouTube video player" width="560" height="390" src="http://www.youtube.com/embed/MivurEWgLdI" frameborder="0" allowfullscreen></iframe>
