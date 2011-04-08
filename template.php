@@ -24,8 +24,6 @@
                 <div class="limpar"></div>
 
                 <div id="lateral">
-                    <iframe src="https://spreadsheets.google.com/embeddedform?formkey=dDJmTzhteW1WSnVSa1FxVjFzMG5UcUE6MQ" width="300" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-
                     <h1>Realização</h1>
                     <ul>
                         <li>
