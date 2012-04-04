@@ -16,27 +16,27 @@ if (isset($_GET['pagina'])) {
     switch ($_GET['pagina']) {
         case 'principal':
             $pagina = 'principal.php';
-            $titulo = 'Flisol Santos 2011';
+            $titulo = 'Flisol Santos 2012';
             break;
         case 'programacao':
             $pagina = 'programacao.php';
-            $titulo = 'Programação - Flisol Santos 2011';
+            $titulo = 'Programação | Flisol Santos 2012';
             break;
         case 'data_hora':
             $pagina = 'data_hora.php';
-            $titulo = 'Onde e Quando - Flisol Santos 2011';
+            $titulo = 'Onde e Quando | Flisol Santos 2012';
             break;
         case 'prepare-se':
             $pagina = 'prepare-se.php';
-            $titulo = 'Prepare-se! - Flisol Santos 2011';
+            $titulo = 'Prepare-se! | Flisol Santos 2012';
             break;
         case 'organizadores':
             $pagina = 'organizadores.php';
-            $titulo = 'Organizadores - Flisol Santos 2011';
+            $titulo = 'Organizadores | Flisol Santos 2012';
             break;
         case 'fotos':
             $pagina = 'fotos.php';
-            $titulo = 'Fotos - Flisol Santos 2011';
+            $titulo = 'Fotos | Flisol Santos 2012';
             break;
         default:
             $pagina = '404.php';
@@ -46,7 +46,7 @@ if (isset($_GET['pagina'])) {
 }
 else {
     $pagina = 'principal.php';
-    $titulo = 'Flisol Santos 2011';
+    $titulo = 'Flisol Santos 2012';
 }
 
 include('template.php');

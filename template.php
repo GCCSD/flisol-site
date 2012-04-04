@@ -36,26 +36,18 @@
                     <h1>Patrocínio</h1>
                     <ul>
                         <li>
-                            <a href="http://www.apensystem.com/" title="Apen System">
-                                <img src="<?php echo URL; ?>imagens/apen.png" alt="Apen System" />
-                            </a>
-                        </li>
-                        <br />
-                        <li>
                             <a href="http://casoft.info/" title="CaSoft">
                                 <img src="<?php echo URL; ?>imagens/casoft.png" alt="CaSoft" />
                             </a>
                         </li>
-                        <br />
                         <li>
                             <a href="http://jacaretecnologia.com.br/" title="Jacaré Tecnologia">
                                 <img src="<?php echo URL; ?>imagens/jacare.png" alt="Jacaré Tecnologia" />
                             </a>
                         </li>
-                        <br />
                         <li>
-                            <a href="http://www.tecnoponta.com.br/" title="Tecnoponta">
-                                <img src="<?php echo URL; ?>imagens/tecnoponta.png" alt="Tecnoponta" />
+                            <a href="http://www.techme.com.br/" title="Tech Me!">
+                                <img src="<?php echo URL; ?>imagens/techme.png" alt="Tech Me!" />
                             </a>
                         </li>
                     </ul>
@@ -63,23 +55,8 @@
                     <h1>Apoio</h1>
                     <ul>
                         <li>
-                            <a href="http://microcampguaruja.com/" title="Microcamp Guarujá">
-                                <img src="<?php echo URL; ?>imagens/microcamp.jpg" alt="Microcamp Guarujá" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.lojainfoweb.com/" title="Infoweb">
-                                <img src="<?php echo URL; ?>imagens/infoweb.png" alt="Infoweb" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.logicalguaruja.com.br/" title="Logical Guarujá">
-                                <img src="<?php echo URL; ?>imagens/logical.jpg" alt="Logical" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://unimonte.br/" title="Unimonte">
-                                <img src="<?php echo URL; ?>imagens/unimonte.jpg" alt="Unimonte" />
+                            <a href="http://www.fatecrl.edu.br/" title="Fatec Rubens Lara">
+                                <img src="<?php echo URL; ?>imagens/fatec.png" alt="Fatec Rubens Lara" />
                             </a>
                         </li>
                     </ul>
