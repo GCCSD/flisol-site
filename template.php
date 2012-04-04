@@ -11,8 +11,9 @@
             <div id="layout">
 
                 <ul id="menu">
-                    <li><a href="<?php echo URL; ?>">Flisol</a></li>
-                    <li><a href="<?php echo URL; ?>data_hora">Data, Hora e Local</a></li>
+                    <li><a href="<?php echo URL; ?>">Home</a></li>
+                    <li><a href="<?php echo URL; ?>flisol">Flisol</a></li>
+                    <li><a href="<?php echo URL; ?>data_hora">Quando e onde</a></li>
                     <li><a href="<?php echo URL; ?>programacao">Programação</a></li>
                     <li><a href="<?php echo URL; ?>prepare-se">Prepare-se!</a></li>
                     <li><a href="<?php echo URL; ?>organizadores">Organização</a></li>
@@ -53,6 +54,13 @@
                     </ul>
 
                     <h1>Apoio</h1>
+                    <ul>
+                        <li>
+                            <a href="http://www.fatecrl.edu.br/" title="Centro Paula Souza">
+                                <img src="<?php echo URL; ?>imagens/cps.png" alt="Centro Paula Souza" />
+                            </a>
+                        </li>
+                    </ul>
                     <ul>
                         <li>
                             <a href="http://www.fatecrl.edu.br/" title="Fatec Rubens Lara">
