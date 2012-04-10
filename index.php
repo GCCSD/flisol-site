@@ -18,6 +18,10 @@ if (isset($_GET['pagina'])) {
             $pagina = 'principal.php';
             $titulo = 'Flisol Santos 2012';
             break;
+        case 'flisol':
+            $pagina = 'flisol.php';
+            $titulo = 'Sobre o Flisol';
+            break;
         case 'programacao':
             $pagina = 'programacao.php';
             $titulo = 'Programação | Flisol Santos 2012';

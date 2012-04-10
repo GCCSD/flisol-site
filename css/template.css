@@ -56,15 +56,15 @@ h2 {
     text-align: left;
     font-weight: bold;
     padding: 0px 0px 0px 4px;
-    font-size: 12px;
+    font-size: 11px;
     position: absolute;
-    top: 179px;
+    top: 161px;
 }
 
 #menu li {
     display: inline-block;
-    padding: 14px 7px 0px 3px;
-    height: 44px;
+    padding: 14px 5px 0px 0px;
+    height: 26px;
     background-image: url(../imagens/sep_menu.png);
     background-position: top right;
     background-repeat: no-repeat;
@@ -125,6 +125,7 @@ a img {
     float: left;
     width: 550px;
     text-align: justify;
+    margin: -110px 0 0 0;
 }
 
 #conteudo h1 {

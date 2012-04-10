@@ -23,4 +23,3 @@
 <h2>Venha para o Flisol Santos 2012</h2>
 
 <!-- TODO trocar o vídeo -->
-<iframe title="YouTube video player" width="560" height="390" src="http://www.youtube.com/embed/MivurEWgLdI" frameborder="0" allowfullscreen></iframe>
