@@ -68,6 +68,13 @@
                             </a>
                         </li>
                     </ul>
+                    <ul>
+                        <li>
+                            <a href="http://www.etecaristotelesferreira.com.br/" title="Etec Aristóteles Ferreira">
+                                <img src="<?php echo URL; ?>imagens/etec.jpg" alt="Etec Aristóteles Ferreira" />
+                            </a>
+                        </li>
+                    </ul>
                 </div>
 
                 <div id="conteudo">
