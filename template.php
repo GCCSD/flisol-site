@@ -15,7 +15,7 @@
                     <li><a href="<?php echo URL; ?>flisol">Flisol</a></li>
                     <li><a href="<?php echo URL; ?>data_hora">Quando e onde</a></li>
                     <li><a href="<?php echo URL; ?>programacao">Programação</a></li>
-                    <li><a href="<?php echo URL; ?>prepare-se">Prepare-se!</a></li>
+                    <li><a href="<?php echo URL; ?>inscreva-se">Inscreva-se!</a></li>
                     <li><a href="<?php echo URL; ?>organizadores">Organização</a></li>
                     <li><a href="<?php echo URL; ?>fotos">Fotos</a></li>
                 </ul>

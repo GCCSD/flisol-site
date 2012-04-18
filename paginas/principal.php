@@ -11,3 +11,7 @@
 <p>Segundo <strong>Kretcheu</strong>, o usuário de softwares livres, ainda que sem perceber, fortalece o modelo de desenvolvimento colaborativo e acaba por se beneficiar mesmo que não envolvido diretamente. O usuário de software proprietário, em boa parte usa de modo ilegal, cometendo um crime e ficando cada vez mais dependente do modelo que lhe desfavorece.</p>
 
 <p>O evento se propõe a debater a produção de conteúdo de forma colaborativa na Internet, quais são os limites da liberdade de criação e inovação, leis de direitos autorais, as diferenças entre os softwares livres e proprietários, entre outros assuntos em pauta.</p>
+
+<h2>Venha para o Fórum de Cultura de Digital e Flisol 2012</h2>
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/es55BOcn9AU" frameborder="0" allowfullscreen></iframe>

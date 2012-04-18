@@ -30,9 +30,9 @@ if (isset($_GET['pagina'])) {
             $pagina = 'data_hora.php';
             $titulo = 'Onde e Quando | Flisol Santos 2012';
             break;
-        case 'prepare-se':
-            $pagina = 'prepare-se.php';
-            $titulo = 'Prepare-se! | Flisol Santos 2012';
+        case 'inscreva-se':
+            $pagina = 'inscreva-se.php';
+            $titulo = 'Inscreva-se! | Flisol Santos 2012';
             break;
         case 'organizadores':
             $pagina = 'organizadores.php';
