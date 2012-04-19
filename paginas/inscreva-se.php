@@ -2,7 +2,7 @@
 
 <p>Preencha o formulário abaixo para se inscrever nos eventos. A participação é gratuita!</p>
 
-<iframe src="https://docs.google.com/a/casoft.info/spreadsheet/embeddedform?formkey=dEZJM0s5RGhKR0RKek92aWJYemczSWc6MQ" width="540" height="666" frameborder="0" marginheight="0" marginwidth="0">Carregando...</iframe>
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dFI0YmJweFZ0UW5PMW53enVGSGxuUVE6MQ" width="760" height="723" frameborder="0" marginheight="0" marginwidth="0">Carregando...</iframe>
 
 <h1>Prepare-se</h1>
 <p>Se você quiser instalar software livre em seu computador ou notebook, basta levá-lo ao evento. Lá pessoas preparadas e experientes farão a instalação para você. Você também pode levar mídias (CDs, DVDs, pendrives, etc) para voltar para casa com diversos softwares livres de várias áreas.</p>

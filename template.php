@@ -87,7 +87,7 @@
                     <div id="meio">
                         <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
                         <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
-                        <p>Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="http://twitter.com/DiegoSouza9" title="Twitter do Apu">Apu</a>, <a href="http://cassialuz.casoft.info/" title="Blog da Cássia Luz">Cássia Luz</a> e <a href="http://infog.casoft.info/" title="Blog do InFog">InFog</a></p>
+                        <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="http://twitter.com/DiegoSouza9" title="Twitter do Apu">Apu</a>, <a href="http://cassialuz.casoft.info/" title="Blog da Cássia Luz">Cássia Luz</a> e <a href="http://infog.casoft.info/" title="Blog do InFog">InFog</a></p>
                     </div>
                     <div class="limpar"></div>
                 </div>
