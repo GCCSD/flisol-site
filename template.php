@@ -52,29 +52,6 @@
                             </a>
                         </li>
                     </ul>
-
-                    <h1>Apoio</h1>
-                    <ul>
-                        <li>
-                            <a href="http://www.fatecrl.edu.br/" title="Centro Paula Souza">
-                                <img src="<?php echo URL; ?>imagens/cps.png" alt="Centro Paula Souza" />
-                            </a>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li>
-                            <a href="http://www.fatecrl.edu.br/" title="Fatec Rubens Lara">
-                                <img src="<?php echo URL; ?>imagens/fatec.png" alt="Fatec Rubens Lara" />
-                            </a>
-                        </li>
-                    </ul>
-                    <ul>
-                        <li>
-                            <a href="http://www.etecaristotelesferreira.com.br/" title="Etec Aristóteles Ferreira">
-                                <img src="<?php echo URL; ?>imagens/etec.jpg" alt="Etec Aristóteles Ferreira" />
-                            </a>
-                        </li>
-                    </ul>
                 </div>
 
                 <div id="conteudo">
