@@ -20,7 +20,7 @@
                     <li><a href="<?php echo URL; ?>fotos">Fotos</a></li>
                 </ul>
 
-                <img src="<?php echo URL; ?>imagens/topo_flisol.png" alt="Flisol em Santos, abril de 2011" />
+                <img src="<?php echo URL; ?>imagens/topo_flisol2.png" alt="Flisol em Santos, abril de 2011" />
 
                 <div class="limpar"></div>
 
