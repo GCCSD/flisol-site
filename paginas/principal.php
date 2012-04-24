@@ -14,4 +14,3 @@
 
 <h2>Venha para o Fórum de Cultura de Digital e Flisol 2012</h2>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/es55BOcn9AU" frameborder="0" allowfullscreen></iframe>
