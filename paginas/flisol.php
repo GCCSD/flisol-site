@@ -26,11 +26,12 @@
 
 <p>O <strong>FLISOL</strong> acontece simultaneamente em diversos países da América Latina, inclusive no Brasil. Santos receberá sua sexta edição neste ano. Para esse fim as diversas comunidades locais de Software Livre em cada país, cidade ou localidade, organizam simultaneamente eventos em que se instala, de maneira gratuita e totalmente legal, softwares livres nos computadores dos participantes que se interessarem. Também são oferecidos mini cursos e palestras em torno de temas que envolvem o Software Livre em todas suas expressões: artística, acadêmica, empresarial e social.</p>
 
-<p>O <strong>FLISOL</strong> acontecerá entre <strong>quinta, sexta e sábado entre os dias 26 e 28 de abril de 2012, em Santos</strong>.</p>
+<p>O <strong>FLISOL</strong> acontecerá no <strong>sábado dia 28 de abril de 2012, em Santos</strong>.</p>
 
 <p>Endereço: </p>
-<p>FATEC/RL Faculdade de Tecnologia Rubens Lara</p> 
-<p>Av. Bartolomeu de Gusmão,110.</p> 
+<p>Fórum da Cidadania</p> 
+<p>Avenida Ana Costa, 340.</p>
+<p>Veja o <a href="<?php echo URL; ?>data_hora">mapa de localização</a></p>
 
 <h2>Quem organiza o FLISOL ?</h2>
 
