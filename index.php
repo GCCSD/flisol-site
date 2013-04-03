@@ -9,14 +9,14 @@
  * @author GCCSD <http://gccsd.com.br>
  */
 
-define('URL', 'http://flisol/');
+define('URL', 'http://flisolsantos.com.br/');
 
 // Definindo a página a ser exibida
 if (isset($_GET['pagina'])) {
     switch ($_GET['pagina']) {
         case 'principal':
             $pagina = 'principal.php';
-            $titulo = 'Flisol Santos 2012';
+            $titulo = 'Flisol Santos 2013';
             break;
         case 'flisol':
             $pagina = 'flisol.php';
@@ -24,23 +24,19 @@ if (isset($_GET['pagina'])) {
             break;
         case 'programacao':
             $pagina = 'programacao.php';
-            $titulo = 'Programação | Flisol Santos 2012';
+            $titulo = 'Programação | Flisol Santos 2013';
             break;
-        case 'data_hora':
-            $pagina = 'data_hora.php';
-            $titulo = 'Onde e Quando | Flisol Santos 2012';
-            break;
-        case 'inscreva-se':
-            $pagina = 'inscreva-se.php';
-            $titulo = 'Inscreva-se! | Flisol Santos 2012';
+        case 'local':
+            $pagina = 'local.php';
+            $titulo = 'Local | Flisol Santos 2013';
             break;
         case 'organizadores':
             $pagina = 'organizadores.php';
-            $titulo = 'Organizadores | Flisol Santos 2012';
+            $titulo = 'Organizadores | Flisol Santos 2013';
             break;
         case 'fotos':
             $pagina = 'fotos.php';
-            $titulo = 'Fotos | Flisol Santos 2012';
+            $titulo = 'Fotos | Flisol Santos 2013';
             break;
         default:
             $pagina = '404.php';
@@ -50,7 +46,7 @@ if (isset($_GET['pagina'])) {
 }
 else {
     $pagina = 'principal.php';
-    $titulo = 'Flisol Santos 2012';
+    $titulo = 'Flisol Santos 2013';
 }
 
 include('template.php');

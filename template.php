@@ -13,9 +13,8 @@
                 <ul id="menu">
                     <li><a href="<?php echo URL; ?>">Home</a></li>
                     <li><a href="<?php echo URL; ?>flisol">Flisol</a></li>
-                    <li><a href="<?php echo URL; ?>data_hora">Quando e onde</a></li>
+                    <li><a href="<?php echo URL; ?>local">Local</a></li>
                     <li><a href="<?php echo URL; ?>programacao">Programação</a></li>
-                    <li><a href="<?php echo URL; ?>inscreva-se">Inscreva-se!</a></li>
                     <li><a href="<?php echo URL; ?>organizadores">Organização</a></li>
                     <li><a href="<?php echo URL; ?>fotos">Fotos</a></li>
                 </ul>
@@ -36,11 +35,6 @@
 
                     <h1>Patrocínio</h1>
                     <ul>
-                        <li>
-                            <a href="http://casoft.info/" title="CaSoft">
-                                <img src="<?php echo URL; ?>imagens/casoft.png" alt="CaSoft" />
-                            </a>
-                        </li>
                         <li>
                             <a href="http://jacaretecnologia.com.br/" title="Jacaré Tecnologia">
                                 <img src="<?php echo URL; ?>imagens/jacare.png" alt="Jacaré Tecnologia" />
@@ -64,7 +58,7 @@
                     <div id="meio">
                         <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
                         <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
-                        <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="http://twitter.com/DiegoSouza9" title="Twitter do Apu">Apu</a>, <a href="http://cassialuz.casoft.info/" title="Blog da Cássia Luz">Cássia Luz</a> e <a href="http://infog.casoft.info/" title="Blog do InFog">InFog</a></p>
+                        <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://cassialuz.casoft.info/" title="Blog da Cássia Luz">Cássia Luz</a> e <a href="http://infog.casoft.info/" title="Blog do InFog">InFog</a></p>
                     </div>
                     <div class="limpar"></div>
                 </div>
