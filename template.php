@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pr-br">
     <head>
-        <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+        <meta charset="utf-8" />
         <link rel="stylesheet" href="<?php echo URL; ?>css/template.css" type="text/css" media="screen" />
         <title><?php echo $titulo; ?></title>
     </head>
@@ -19,7 +19,7 @@
                     <li><a href="<?php echo URL; ?>fotos">Fotos</a></li>
                 </ul>
 
-                <img src="<?php echo URL; ?>imagens/topo_flisol2.png" alt="Flisol em Santos, abril de 2011" />
+                <img src="<?php echo URL; ?>imagens/topo_flisol2.png" alt="Flisol em Santos, abril de 2013" />
 
                 <div class="limpar"></div>
 
@@ -58,7 +58,7 @@
                     <div id="meio">
                         <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
                         <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
-                        <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://cassialuz.casoft.info/" title="Blog da Cássia Luz">Cássia Luz</a> e <a href="http://infog.casoft.info/" title="Blog do InFog">InFog</a></p>
+                        <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://twitter.com/cassialuz/" title="Cássia Luz no Twitter">Cássia Luz</a> e <a href="http://twitter.com/infog9/" title="InFog no Twitter">InFog</a></p>
                     </div>
                     <div class="limpar"></div>
                 </div>

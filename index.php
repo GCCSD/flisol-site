@@ -3,13 +3,16 @@
  * index.php
  *
  * Script responsável por carregar as páginas.
- *
  * Aqui está também a configuração do site.
  *
  * @author GCCSD <http://gccsd.com.br>
  */
 
-define('URL', 'http://flisolsantos.com.br/');
+if ('localhost' == $_SERVER['HTTP_HOST']) {
+    define('URL', 'http://localhost/flisol-site/');
+} else {
+    define('URL', 'http://flisolsantos.com.br/');
+}
 
 // Definindo a página a ser exibida
 if (isset($_GET['pagina'])) {
@@ -50,5 +53,3 @@ else {
 }
 
 include('template.php');
-
-/* Fim do arquivo index.php */
