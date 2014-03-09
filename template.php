@@ -34,6 +34,8 @@
                     </ul>
 
                     <h1>Patrocínio</h1>
+                    <p>Seja um patrocinador!</p>
+<!--
                     <ul>
                         <li>
                             <a href="http://jacaretecnologia.com.br/" title="Jacaré Tecnologia">
@@ -46,6 +48,7 @@
                             </a>
                         </li>
                     </ul>
+-->
                 </div>
 
                 <div id="conteudo">

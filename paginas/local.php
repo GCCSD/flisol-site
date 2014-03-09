@@ -1,7 +1,7 @@
 <h1>Quando?</h1>
 
 <p>
-    Dia 27 de abril, sábado, das 10h00 às 18h00.
+    Dia 26 de abril, sábado, das 10h00 às 18h00.
 </p>
 
 <h1>Onde?</h1>
