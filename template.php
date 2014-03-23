@@ -24,7 +24,7 @@
                 <div class="limpar"></div>
 
                 <div id="lateral">
-                    <h1>Realização</h1>
+                    <h2>Realização</h2>
                     <ul>
                         <li>
                             <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
@@ -33,22 +33,26 @@
                         </li>
                     </ul>
 
-                    <h1>Patrocínio</h1>
+                    <h2>Patrocínio</h2>
                     <p>Seja um patrocinador!</p>
 <!--
                     <ul>
                         <li>
-                            <a href="http://jacaretecnologia.com.br/" title="Jacaré Tecnologia">
-                                <img src="<?php echo URL; ?>imagens/jacare.png" alt="Jacaré Tecnologia" />
-                            </a>
-                        </li>
-                        <li>
-                            <a href="http://www.techme.com.br/" title="Tech Me!">
-                                <img src="<?php echo URL; ?>imagens/techme.png" alt="Tech Me!" />
+                            <a href="http://novatec.com.br/" title="Novatec Editora">
+                                <img src="<?php echo URL; ?>imagens/logo_novatec.gif" alt="Novatec Editora" />
                             </a>
                         </li>
                     </ul>
 -->
+
+                    <h2>Apoio</h2>
+                    <ul>
+                        <li>
+                            <a href="http://novatec.com.br/" title="Novatec Editora">
+                                <img src="<?php echo URL; ?>imagens/logo_novatec.gif" alt="Novatec Editora" />
+                            </a>
+                        </li>
+                    </ul>
                 </div>
 
                 <div id="conteudo">
