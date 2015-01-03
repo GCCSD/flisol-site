@@ -12,13 +12,13 @@ p {
 
 a {
     text-decoration: underline;
-    color: #FFF;
+    color: #555;
     font-weight: bold;
 }
 
 a:hover {
     text-decoration: none;
-    color: #555;
+    color: #222;
 }
 
 .limpar {
@@ -26,7 +26,7 @@ a:hover {
 }
 
 h1, h2, h3, h4 {
-    color: #FFF;
+    color: #777;
 }
 
 h1 {
@@ -56,7 +56,7 @@ ul {
 #topo {
     background-image: url('../images/santos.jpg');
     background-repeat: no-repeat;
-    background-position: top center ;
+    background-position: center -120px;
     -o-background-size: 100% auto;
     -moz-background-size: 100% auto;
     -webkit-background-size: 100% auto;
@@ -94,6 +94,7 @@ a img {
     width: 900px;
     padding: 20px 0 0 0;
     text-align: justify;
+    margin: 0 auto;
 }
 
 #conteudo h2 {
@@ -111,22 +112,7 @@ a img {
 #rodape{
     text-align: center;
     font-size: 12px;
-    margin-top: 50px;
     height: 220px;
     width: 900px;
-}
-
-#rodape #meio {
-    padding: 70px 20px 0 0;
-    font-size: 12px;
-    color: #DDD;
-    font-weight: bold;
-}
-
-#rodape a {
-    color: #DDD;
-}
-
-#rodape a:hover {
-    color: #FFF;
+    margin: 0 auto;
 }

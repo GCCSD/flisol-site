@@ -24,22 +24,16 @@
                 <?php include("pages/{$page}.php"); ?>
             </div>
 
-            <div class="limpar"></div>
-
             <div id="rodape">
-                <div id="meio">
-                    <h2>Realização</h2>
-                    <p>
-                            <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
-                                <img src="<?php echo URL; ?>assets/images/gccsd.png" alt="GCCSD" />
-                            </a>
-                    </p>
-                    <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
-                    <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://twitter.com/cassialuz/" title="Cássia Luz no Twitter">Cássia Luz</a> e <a href="http://twitter.com/infog9/" title="InFog no Twitter">InFog</a></p>
-                </div>
-                <div class="limpar"></div>
+                <h2>Realização</h2>
+                <p>
+                        <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
+                            <img src="<?php echo URL; ?>assets/images/gccsd.png" alt="GCCSD" />
+                        </a>
+                </p>
+                <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
+                <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://twitter.com/cassialuz/" title="Cássia Luz no Twitter">Cássia Luz</a> e <a href="http://twitter.com/infog9/" title="InFog no Twitter">InFog</a></p>
             </div>
-            <div class="limpar"></div>
         </div>
     </body>
 </html>

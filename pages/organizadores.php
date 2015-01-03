@@ -8,7 +8,7 @@
 
 <h2>Como o Grupo Surgiu?</h2>
 
-<p>O Grupo de Compartilhamento do Conhecimento Santos Dumont surgiu em 2007 para a preparação do primeiro Flisol em Santos. Na época o grupo ainda não tinha esse nome e os únicos membros que participaram daquele Flisol e que continuaram participando dos encontros do grupo foram o <a href="http://infog.casoft.info" title="Blog do InFog">InFog</a> e o <a href="http://kretcheu.com.br" title="Kretcheu Vídeo Blog">Kretcheu</a>.</p>
+<p>O Grupo de Compartilhamento do Conhecimento Santos Dumont surgiu em 2007 para a preparação do primeiro Flisol em Santos. Na época o grupo ainda não tinha esse nome e os únicos membros que participaram daquele Flisol e que continuaram participando dos encontros do grupo foram o <a href="http://evaldojunior.com" title="Site do InFog">InFog</a> e o <a href="http://kretcheu.com.br" title="Kretcheu Vídeo Blog">Kretcheu</a>.</p>
 
 <p>E foi durante 2007 que o grupo foi batizado de <strong>GCC Santos Dumont</strong>. Antes disso algumas outras opções de nome foram consideradas, já que nós não queriamos seguir o velho padrão GUSLXX (Grupo de Usuários de Software Livre de “Algum Lugar”). Um dos nomes sugeridos foi Marruá, que na cultura nordestina é usado para definir os cavalos selvagens que nunca foram domados, por isso não livres. É um ótimo nome, com um significado muito legal para o grupo, mas a opinião dos membros foi de que le não soava bem.</p>
 
