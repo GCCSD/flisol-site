@@ -10,6 +10,10 @@ require __DIR__ . '/bootstrap.php';
 $page = $route;
 
 switch ($route) {
+    case '':
+        $page = 'principal';
+        $title = 'Flisol Santos 2015';
+        break;
     case 'principal':
         $title = 'Flisol Santos 2015';
         break;

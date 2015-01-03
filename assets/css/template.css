@@ -1,0 +1,132 @@
+body {
+    font-family: sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #444;
+    font-size: 14px;
+}
+
+p {
+    line-height: 150%;
+}
+
+a {
+    text-decoration: underline;
+    color: #FFF;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #555;
+}
+
+.limpar {
+    clear: both;
+}
+
+h1, h2, h3, h4 {
+    color: #FFF;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+ul {
+    padding: 0 10px;
+    margin: 0;
+}
+
+#wrap {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#layout {
+    margin: 0 auto;
+    width: 100%;
+}
+
+#topo {
+    background-image: url('../images/santos.jpg');
+    background-repeat: no-repeat;
+    background-position: top center ;
+    -o-background-size: 100% auto;
+    -moz-background-size: 100% auto;
+    -webkit-background-size: 100% auto;
+    background-size: 100% auto;
+    height: 200px;
+}
+
+#menu {
+    padding: 90px 0 0 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#menu li {
+    display: inline-block;
+    padding: 8px;
+}
+
+#menu li a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    color: #FFDD55;
+}
+
+a img {
+    text-decoration: none;
+    border: 0;
+}
+
+#conteudo {
+    width: 900px;
+    padding: 20px 0 0 0;
+    text-align: justify;
+}
+
+#conteudo h2 {
+    font-size: 16px;
+    padding: 0;
+}
+
+#coluna{
+    float:right;
+    width:400px;
+    height:300px;
+    margin-bottom:30px;
+}
+
+#rodape{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 50px;
+    height: 220px;
+    width: 900px;
+}
+
+#rodape #meio {
+    padding: 70px 20px 0 0;
+    font-size: 12px;
+    color: #DDD;
+    font-weight: bold;
+}
+
+#rodape a {
+    color: #DDD;
+}
+
+#rodape a:hover {
+    color: #FFF;
+}

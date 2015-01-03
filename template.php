@@ -2,14 +2,14 @@
 <html lang="pr-br">
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="<?php echo URL; ?>css/template.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="<?php echo URL; ?>assets/css/template.css" type="text/css" media="screen" />
         <title><?php echo $title; ?></title>
     </head>
 
     <body>
-        <div id="tudo">
-            <div id="layout">
+        <div id="layout">
 
+            <div id="topo">
                 <ul id="menu">
                     <li><a href="<?php echo URL; ?>">Home</a></li>
                     <li><a href="<?php echo URL; ?>flisol">Flisol</a></li>
@@ -18,50 +18,28 @@
                     <li><a href="<?php echo URL; ?>organizadores">Organização</a></li>
                     <li><a href="<?php echo URL; ?>fotos">Fotos</a></li>
                 </ul>
+            </div>
 
-                <img src="<?php echo URL; ?>imagens/topo_flisol2.png" alt="Flisol em Santos, abril de 2013" />
+            <div id="conteudo">
+                <?php include("pages/{$page}.php"); ?>
+            </div>
 
-                <div class="limpar"></div>
+            <div class="limpar"></div>
 
-                <div id="lateral">
+            <div id="rodape">
+                <div id="meio">
                     <h2>Realização</h2>
-                    <ul>
-                        <li>
+                    <p>
                             <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
-                                <img src="<?php echo URL; ?>imagens/gccsd.png" alt="GCCSD" />
+                                <img src="<?php echo URL; ?>assets/images/gccsd.png" alt="GCCSD" />
                             </a>
-                        </li>
-                    </ul>
-
-                    <h2>Patrocínio</h2>
-                    <p>Seja um patrocinador!</p>
-
-                    <h2>Apoio</h2>
-                    <ul>
-                        <li>
-                            <a href="http://novatec.com.br/" title="Novatec Editora">
-                                <img src="<?php echo URL; ?>imagens/logo_novatec.gif" alt="Novatec Editora" />
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-
-                <div id="conteudo">
-                    <?php include("pages/{$page}.php"); ?>
-                </div>
-
-                <div class="limpar"></div>
-
-                <div id="rodape">
-                    <div id="meio">
-                        <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
-                        <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
-                        <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://twitter.com/cassialuz/" title="Cássia Luz no Twitter">Cássia Luz</a> e <a href="http://twitter.com/infog9/" title="InFog no Twitter">InFog</a></p>
-                    </div>
-                    <div class="limpar"></div>
+                    </p>
+                    <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
+                    <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://twitter.com/cassialuz/" title="Cássia Luz no Twitter">Cássia Luz</a> e <a href="http://twitter.com/infog9/" title="InFog no Twitter">InFog</a></p>
                 </div>
                 <div class="limpar"></div>
             </div>
+            <div class="limpar"></div>
         </div>
     </body>
 </html>
