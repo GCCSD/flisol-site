@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8" />
         <link rel="stylesheet" href="<?php echo URL; ?>css/template.css" type="text/css" media="screen" />
-        <title><?php echo $titulo; ?></title>
+        <title><?php echo $title; ?></title>
     </head>
 
     <body>
@@ -35,15 +35,6 @@
 
                     <h2>Patrocínio</h2>
                     <p>Seja um patrocinador!</p>
-<!--
-                    <ul>
-                        <li>
-                            <a href="http://novatec.com.br/" title="Novatec Editora">
-                                <img src="<?php echo URL; ?>imagens/logo_novatec.gif" alt="Novatec Editora" />
-                            </a>
-                        </li>
-                    </ul>
--->
 
                     <h2>Apoio</h2>
                     <ul>
@@ -56,7 +47,7 @@
                 </div>
 
                 <div id="conteudo">
-                    <?php include('paginas/'.$pagina); ?>
+                    <?php include("pages/{$page}.php"); ?>
                 </div>
 
                 <div class="limpar"></div>
