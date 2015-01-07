@@ -1,9 +1,15 @@
-<h1>O GCC-SD</h1>
+<h2>O GCC-SD</h2>
 
 <p>
     O <a href="http://gccsd.com.br" title="Blog do GCC-SD"><strong>Grupo de Compartilhamento do Conhecimento Santos Dumont</strong></a>
     é um grupo formado principalmente por usuários de software livre e que tem como objetivo a
     troca de conhecimento e informações entre os membros.
+</p>
+
+<p class="center">
+    <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
+        <img src="<?php echo URL; ?>assets/images/gccsd.png" alt="GCCSD" />
+    </a>
 </p>
 
 <h2>Como o Grupo Surgiu?</h2>

@@ -1,9 +1,10 @@
 body {
-    font-family: sans-serif;
+    font-family: Lato, sans-serif;
     padding: 0;
     margin: 0;
     color: #444;
-    font-size: 14px;
+    font-size: 16px;
+    background-color: #FFF;
 }
 
 p {
@@ -21,7 +22,7 @@ a:hover {
     color: #222;
 }
 
-.limpar {
+.clear {
     clear: both;
 }
 
@@ -30,16 +31,35 @@ h1, h2, h3, h4 {
 }
 
 h1 {
-    font-size: 24px;
+    color: #6C777B;
+    font-size: 38px;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 40px 0 0 120px;
+    text-shadow: 1px 1px 2px #888;
 }
 
 h2 {
-    font-size: 20px;
+    font-size: 32px;
+    color: #4D4D4D;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0 0 0 120px;
 }
 
 ul {
     padding: 0 10px;
     margin: 0;
+}
+
+.video {
+    width: 100%;
+    height: 440px;
+    margin: 15px 0 0 0;
+}
+
+.center {
+    text-align: center;
 }
 
 #wrap {
@@ -53,15 +73,16 @@ ul {
     width: 100%;
 }
 
-#topo {
-    background-image: url('../images/santos.jpg');
+#top_wrapper {
+    background-image: url(../images/flisol-santos.png);
     background-repeat: no-repeat;
-    background-position: center -120px;
-    -o-background-size: 100% auto;
-    -moz-background-size: 100% auto;
-    -webkit-background-size: 100% auto;
-    background-size: 100% auto;
-    height: 200px;
+    background-position: 70% 20px;
+}
+
+#top {
+    background-color: #F2F2F2;
+    color: #565656;
+    padding: 0 0 15px 0;
 }
 
 #menu {
@@ -77,12 +98,16 @@ ul {
 }
 
 #menu li a {
-    color: #FFF;
+    color: #565656;
     text-decoration: none;
 }
 
 #menu li a:hover {
-    color: #FFDD55;
+    color: #999;
+}
+
+#menu li.active a {
+    color: #EE7F00;
 }
 
 a img {
@@ -90,16 +115,19 @@ a img {
     border: 0;
 }
 
-#conteudo {
+.main-size {
     width: 900px;
     padding: 20px 0 0 0;
     text-align: justify;
     margin: 0 auto;
 }
 
-#conteudo h2 {
-    font-size: 16px;
+#content h2 {
+    color: #6C777B;
+    font-size: 22px;
+    margin: 0;
     padding: 0;
+    text-transform: none;
 }
 
 #coluna{
@@ -109,10 +137,9 @@ a img {
     margin-bottom:30px;
 }
 
-#rodape{
+#rodape {
     text-align: center;
     font-size: 12px;
-    height: 220px;
-    width: 900px;
     margin: 0 auto;
+    padding: 30px 0 20px 0;
 }

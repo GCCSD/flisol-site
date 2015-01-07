@@ -1,4 +1,4 @@
-<h1>Saiba mais sobre o Flisol</h1>
+<h2>Saiba mais sobre o Flisol</h2>
 
 <p>
     O <a href="<?php echo URL; ?>organizadores" title="Site do GCCSD">GCCSD</a> traz para Santos,
