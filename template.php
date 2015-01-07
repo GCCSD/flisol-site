@@ -49,7 +49,10 @@
                     <img src="<?php echo URL; ?>assets/images/flisol.png" alt="Flisol" />
                 </p>
                 <p>Festival Latino Americano de Instalação de Software Livre</p>
-                <p>Flisol Santos :: 2011 - <?php echo date('Y'); ?>
+                <p>
+                    Flisol Santos :: 2011 - <?php echo date('Y'); ?> ::
+                    <a href="http://gccsd.com.br" title="GCCSD">GCCSD</a>
+                </p>
             </div>
         </div>
     </body>

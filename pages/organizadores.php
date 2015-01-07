@@ -24,8 +24,8 @@
 
 <p>No Flisol de 2009 novos membros se juntaram ao grupo, um deles é o <a href="http://mudandoparaolinux.blogspot.com" title="Mudando para o Linux">Phoenix</a>.</p>
 
-<p>Durante 2010 o grupo cresceu mais, dentre os novos membros está o <a href="http://twitter.com/DiegoSouza9" title="Twitter do Apu">Apu</a>, que contribuiu com as ideias para os nossos dojos. Hoje temos mais de 70 acessociados em nossa <a href="http://lista.gccsd.com.br/listinfo.cgi/gccsd-gccsd.com.br" title="Lista do GCCSD">lista de discussão</a>, que anda bem movimentada.</p>
+<p>Durante 2010 o grupo cresceu mais, dentre os novos membros está o <a href="http://twitter.com/DiegoSouza9" title="Twitter do Apu">Apu</a>, que contribuiu com as ideias para os nossos dojos. Hoje temos mais de 130 acessociados em nossa <a href="https://groups.google.com/forum/#!forum/gcc-sd" title="Lista do GCCSD">lista de discussão</a>, que anda bem movimentada.</p>
 
-<h2>Sobre o nome...</h2>
+<h2>Sobre o nome</h2>
 
-<p>O nome GCC faz alusão ao famoso <a href="http://gcc.gnu.org/" title="GCC">Gnu C Compiler</a>, o compilador de C do projeto Gnu, e a homenagem à Santos Dumont foi feita por que ele não patenteava suas invenções, acreditando que o progresso deve acontecer à toda a humanidade e não apenas à algumas pessoas.</p>
+<p>O nome GCCSD faz alusão ao famoso <a href="http://gcc.gnu.org/" title="GCC">Gnu C Compiler (GCC)</a>, o compilador de C do projeto Gnu, e homenageia <a href="https://pt.wikipedia.org/wiki/Santos_Dumont" title="Santos Dumont na Wikipedia">Santos Dumont (SD)</a> pois ele não patenteava suas invenções, acreditando que o progresso deve acontecer à toda a humanidade e não apenas à algumas pessoas.</p>

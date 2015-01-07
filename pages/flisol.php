@@ -42,48 +42,7 @@
 
 <p>A participação no evento é totalmente livre e gratuita.</p>
 
-<h2>Que benefícios têm os participantes do FLISOL?</h2>
-
-<p>Entre alguns outros benefícios os participantes terão a oportunidade de instalar Softwares Livres em seus computadores, perceber que é uma alternativa real e segura a outros modelos de desenvolvimento e distribuição de software. Informar-se sobre sua filosofia, cultura e organização ao redor do mundo, conhecer as experiências, desenvolvimentos e estudos de grupos e entidades relacionadas ao Software Livre no âmbito local, nacional e internacional.</p>
-
-<p>Existe também a possibilidade de encontrar uma alternativa ou solução que use Software Livre para sua empresa, colégio, universidade ou para seu governo. </p>
-
-<p>O participante poderá esclarecer suas dúvidas sobre os temas relacionados e, quem sabe, encontrar no Software Livre uma alternativa de estudos, emprego ou desenvolvimento tecnológico.</p>
-
-<h2>Como sua entidade pode apoiar essa iniciativa</h2>
-
-<ul>
-    <li>Oferecendo o espaço físico para realização do evento.</li>
-    <li>Oferecendo estrutura de rede e acesso a Internet. </li>
-    <li>Permitindo a colocação de cartazes e distribuição de folhetos promocionais.</li>
-    <li>Permitindo a visita da organização a salas de aula divulgando o evento.</li>
-    <li>Oferecendo espaço para realização de palestras promocionais sobre Software Livre antes do evento.</li>
-    <li>Envolver o FLISOL nas atividades acadêmicas dos cursos relacionados a informática.</li>
-</ul>
-
-<h2>Como sua entidade pode patrocinar essa iniciativa</h2>
-
-<p>Arcando com parte dos custos, que envolvem:</p>
-
-<ul>
-    <li>Confecção de material de divulgação.</li>
-    <li>Confecção de brindes para serem distribuídos no evento.</li>
-    <li>Operacionalização do evento, translado de palestrantes e operadores.</li>
-    <li>Gravação de Cds para distribuição entre os participantes.</li>
-    <li>Doação de livros, acessórios de informática para sorteio no evento.</li>
-</ul>
-
-<h2>Site do Evento</h2>
-
-<p><a href="http://www.flisol.net/FLISOL2014/Brasil" title="Site do Flisol">http://www.flisol.net/FLISOL2014/Brasil</a>
-</p>
-
-<h2>Site do Evento em Santos</h2>
-
-<p><a href="http://flisolsantos.com.br" title="Hotsite do Flisol Santos">http://flisolsantos.com.br</a></p>
-<p><a href="http://www.flisol.net/FLISOL2014/Brasil/Santos" title="Site do Flisol Santos">http://www.flisol.net/FLISOL2014/Brasil/Santos</a></p>
-
-<h2>Links sobre o tema</h2>
+<h2>Saiba mais sobre o Flisol e o Software Livre</h2>
 
 <p><a href="http://pt.wikipedia.org/wiki/Flisol" title="Página do Flisol na Wikipedia">http://pt.wikipedia.org/wiki/Flisol</a></p>
 <p><a href="http://pt.wikipedia.org/wiki/Software_livre" title="Página da Wikipedia sobre Software Livre">http://pt.wikipedia.org/wiki/Software_livre</a></p>
