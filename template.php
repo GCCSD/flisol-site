@@ -13,7 +13,7 @@
             <div id="top">
                 <div id="top_wrapper" class="main-size">
                     <h1>Flisol Santos 2015</h1>
-                    <h2>20 de Abril</h2>
+                    <h2>25 de Abril</h2>
                     <ul id="menu">
                         <li class="<?php echo ($page == 'principal') ? 'active' : ''; ?>">
                             <a href="<?php echo URL; ?>"><i class="fa fa-home"></i></a>
