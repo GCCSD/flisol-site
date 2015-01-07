@@ -2,74 +2,54 @@
 <html lang="pr-br">
     <head>
         <meta charset="utf-8" />
-        <link rel="stylesheet" href="<?php echo URL; ?>css/template.css" type="text/css" media="screen" />
-        <title><?php echo $titulo; ?></title>
+        <link href="//fonts.googleapis.com/css?family=Lato:400,300,700,900" rel="stylesheet" type="text/css">
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="<?php echo URL; ?>assets/css/template.css" type="text/css" media="screen" />
+        <title><?php echo $title; ?></title>
     </head>
 
     <body>
-        <div id="tudo">
-            <div id="layout">
-
-                <ul id="menu">
-                    <li><a href="<?php echo URL; ?>">Home</a></li>
-                    <li><a href="<?php echo URL; ?>flisol">Flisol</a></li>
-                    <li><a href="<?php echo URL; ?>local">Local</a></li>
-                    <li><a href="<?php echo URL; ?>programacao">Programação</a></li>
-                    <li><a href="<?php echo URL; ?>organizadores">Organização</a></li>
-                    <li><a href="<?php echo URL; ?>fotos">Fotos</a></li>
-                </ul>
-
-                <img src="<?php echo URL; ?>imagens/topo_flisol2.png" alt="Flisol em Santos, abril de 2013" />
-
-                <div class="limpar"></div>
-
-                <div id="lateral">
-                    <h2>Realização</h2>
-                    <ul>
-                        <li>
-                            <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">
-                                <img src="<?php echo URL; ?>imagens/gccsd.png" alt="GCCSD" />
-                            </a>
+        <div id="layout">
+            <div id="top">
+                <div id="top_wrapper" class="main-size">
+                    <h1>Flisol Santos 2015</h1>
+                    <h2>20 de Abril</h2>
+                    <ul id="menu">
+                        <li class="<?php echo ($page == 'principal') ? 'active' : ''; ?>">
+                            <a href="<?php echo URL; ?>"><i class="fa fa-home"></i></a>
+                        </li>
+                        <li class="<?php echo ($page == 'flisol') ? 'active' : ''; ?>">
+                            <a href="<?php echo URL; ?>flisol">Flisol</a>
+                        </li>
+                        <li class="<?php echo ($page == 'programacao') ? 'active' : ''; ?>">
+                            <a href="<?php echo URL; ?>programacao">Programação</a>
+                        </li>
+                        <li class="<?php echo ($page == 'local') ? 'active' : ''; ?>">
+                            <a href="<?php echo URL; ?>local">Local</a>
+                        </li>
+                        <li class="<?php echo ($page == 'organizadores') ? 'active' : ''; ?>">
+                            <a href="<?php echo URL; ?>organizadores">Organização</a>
+                        </li>
+                        <li class="<?php echo ($page == 'fotos') ? 'active' : ''; ?>">
+                            <a href="<?php echo URL; ?>fotos">Fotos</a>
                         </li>
                     </ul>
-
-                    <h2>Patrocínio</h2>
-                    <p>Seja um patrocinador!</p>
-<!--
-                    <ul>
-                        <li>
-                            <a href="http://novatec.com.br/" title="Novatec Editora">
-                                <img src="<?php echo URL; ?>imagens/logo_novatec.gif" alt="Novatec Editora" />
-                            </a>
-                        </li>
-                    </ul>
--->
-
-                    <h2>Apoio</h2>
-                    <ul>
-                        <li>
-                            <a href="http://novatec.com.br/" title="Novatec Editora">
-                                <img src="<?php echo URL; ?>imagens/logo_novatec.gif" alt="Novatec Editora" />
-                            </a>
-                        </li>
-                    </ul>
+                    <?php if ($page == 'principal') : ?>
+                        <iframe class="video" src="//www.youtube.com/embed/OG5EAGT5VDk" frameborder="0" allowfullscreen></iframe>
+                    <?php endif; ?>
                 </div>
+            </div>
 
-                <div id="conteudo">
-                    <?php include('paginas/'.$pagina); ?>
-                </div>
+            <div id="content" class="main-size">
+                <?php include("pages/{$page}.php"); ?>
+            </div>
 
-                <div class="limpar"></div>
-
-                <div id="rodape">
-                    <div id="meio">
-                        <p>Organização <a href="http://gccsd.com.br/" title="Grupo de Compartilhamento do Conhecimento Santos Dumont">GCCSD</a></p>
-                        <p>Festival Latino Americano de Instalação de Software Livre - Santos/SP</p>
-                        <p>2011 - <?php echo date('Y'); ?> :: Site desenvolvido por: <a href="http://twitter.com/as2oliveira" title="Twitter do Alex">Alex</a>, <a href="https://plus.google.com/103652171239012399765" title="Diego Souza no Google+">Apu</a>, <a href="http://twitter.com/cassialuz/" title="Cássia Luz no Twitter">Cássia Luz</a> e <a href="http://twitter.com/infog9/" title="InFog no Twitter">InFog</a></p>
-                    </div>
-                    <div class="limpar"></div>
-                </div>
-                <div class="limpar"></div>
+            <div id="rodape">
+                <p>
+                    <img src="<?php echo URL; ?>assets/images/flisol.png" alt="Flisol" />
+                </p>
+                <p>Festival Latino Americano de Instalação de Software Livre</p>
+                <p>Flisol Santos :: 2011 - <?php echo date('Y'); ?>
             </div>
         </div>
     </body>

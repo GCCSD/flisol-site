@@ -1,0 +1,145 @@
+body {
+    font-family: Lato, sans-serif;
+    padding: 0;
+    margin: 0;
+    color: #444;
+    font-size: 16px;
+    background-color: #FFF;
+}
+
+p {
+    line-height: 150%;
+}
+
+a {
+    text-decoration: underline;
+    color: #555;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #222;
+}
+
+.clear {
+    clear: both;
+}
+
+h1, h2, h3, h4 {
+    color: #777;
+}
+
+h1 {
+    color: #6C777B;
+    font-size: 38px;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 40px 0 0 120px;
+    text-shadow: 1px 1px 2px #888;
+}
+
+h2 {
+    font-size: 32px;
+    color: #4D4D4D;
+    text-transform: uppercase;
+    padding: 0;
+    margin: 0 0 0 120px;
+}
+
+ul {
+    padding: 0 10px;
+    margin: 0;
+}
+
+.video {
+    width: 100%;
+    height: 440px;
+    margin: 15px 0 0 0;
+}
+
+.center {
+    text-align: center;
+}
+
+#wrap {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#layout {
+    margin: 0 auto;
+    width: 100%;
+}
+
+#top_wrapper {
+    background-image: url(../images/flisol-santos.png);
+    background-repeat: no-repeat;
+    background-position: 70% 20px;
+}
+
+#top {
+    background-color: #F2F2F2;
+    color: #565656;
+    padding: 0 0 15px 0;
+}
+
+#menu {
+    padding: 90px 0 0 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#menu li {
+    display: inline-block;
+    padding: 8px;
+}
+
+#menu li a {
+    color: #565656;
+    text-decoration: none;
+}
+
+#menu li a:hover {
+    color: #999;
+}
+
+#menu li.active a {
+    color: #EE7F00;
+}
+
+a img {
+    text-decoration: none;
+    border: 0;
+}
+
+.main-size {
+    width: 900px;
+    padding: 20px 0 0 0;
+    text-align: justify;
+    margin: 0 auto;
+}
+
+#content h2 {
+    color: #6C777B;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    text-transform: none;
+}
+
+#coluna{
+    float:right;
+    width:400px;
+    height:300px;
+    margin-bottom:30px;
+}
+
+#rodape {
+    text-align: center;
+    font-size: 12px;
+    margin: 0 auto;
+    padding: 30px 0 20px 0;
+}

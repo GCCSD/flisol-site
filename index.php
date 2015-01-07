@@ -2,56 +2,40 @@
 /**
  * index.php
  *
- * Script responsável por carregar as páginas.
- * Aqui está também a configuração do site.
- *
  * @author GCCSD <http://gccsd.com.br>
  */
 
+require __DIR__ . '/bootstrap.php';
 
+$page = $route;
 
-if (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) {
-    define('URL', "http://{$_SERVER['HTTP_HOST']}/flisol-site/");
-} else {
-    define('URL', 'http://flisolsantos.com.br/');
-}
-
-// Definindo a página a ser exibida
-if (isset($_GET['pagina'])) {
-    switch ($_GET['pagina']) {
-        case 'principal':
-            $pagina = 'principal.php';
-            $titulo = 'Flisol Santos 2014';
-            break;
-        case 'flisol':
-            $pagina = 'flisol.php';
-            $titulo = 'Sobre o Flisol';
-            break;
-        case 'programacao':
-            $pagina = 'programacao.php';
-            $titulo = 'Programação | Flisol Santos 2014';
-            break;
-        case 'local':
-            $pagina = 'local.php';
-            $titulo = 'Local | Flisol Santos 2014';
-            break;
-        case 'organizadores':
-            $pagina = 'organizadores.php';
-            $titulo = 'Organizadores | Flisol Santos 2014';
-            break;
-        case 'fotos':
-            $pagina = 'fotos.php';
-            $titulo = 'Fotos | Flisol Santos 2014';
-            break;
-        default:
-            $pagina = '404.php';
-            $titulo = 'Ops! Página não encontrada!';
-            break;
-    }
-}
-else {
-    $pagina = 'principal.php';
-    $titulo = 'Flisol Santos 2014';
+switch ($route) {
+    case '':
+        $page = 'principal';
+        $title = 'Flisol Santos 2015';
+        break;
+    case 'principal':
+        $title = 'Flisol Santos 2015';
+        break;
+    case 'flisol':
+        $title = 'Sobre o Flisol';
+        break;
+    case 'programacao':
+        $title = 'Programação | Flisol Santos 2015';
+        break;
+    case 'local':
+        $title = 'Local | Flisol Santos 2015';
+        break;
+    case 'organizadores':
+        $title = 'Organizadores | Flisol Santos 2015';
+        break;
+    case 'fotos':
+        $titulo = 'Fotos | Flisol Santos 2015';
+        break;
+    default:
+        $page = '404';
+        $title = 'Ops! Página não encontrada!';
+        break;
 }
 
 include('template.php');

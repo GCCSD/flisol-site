@@ -1,9 +1,9 @@
-<h1>Saiba mais sobre o Flisol</h1>
+<h2>Saiba mais sobre o Flisol</h2>
 
 <p>
     O <a href="<?php echo URL; ?>organizadores" title="Site do GCCSD">GCCSD</a> traz para Santos,
-    pelo oitavo ano, o <strong>Festival Latino Americano de Instalação de Software Livre</strong>
-    (<strong>Flisol</strong>). O Flisol é um evento regional, realizado anualmente, e que ocorre
+    pelo nono ano, o <strong>Festival Latino Americano de Instalação de Software Livre</strong>
+    (<strong>Flisol</strong>). O Flisol é um evento internacional, realizado anualmente, e que ocorre
     de forma simultânea em diversas cidades da América Latina. O Flisol é um evento descentralizado,
     onde cada local escolhido realiza seu festival simultaneamente com os outros pontos espalhados
     pela América Latina.
@@ -25,10 +25,6 @@
 <h2>Mais sobre o evento</h2>
 
 <p>O <strong>FLISOL</strong> acontece simultaneamente em diversos países da América Latina, inclusive no Brasil. Santos receberá sua sexta edição neste ano. Para esse fim as diversas comunidades locais de Software Livre em cada país, cidade ou localidade, organizam simultaneamente eventos em que se instala, de maneira gratuita e totalmente legal, softwares livres nos computadores dos participantes que se interessarem. Também são oferecidos mini cursos e palestras em torno de temas que envolvem o Software Livre em todas suas expressões: artística, acadêmica, empresarial e social.</p>
-
-<p>O <strong>FLISOL</strong> acontecerá no <strong>sábado dia 26 de abril de 2014</strong>.<br>
-Local: SESC Santos - Rua Conselheiro Ribas, 136 (próximo ao canal 5)<br>
-Veja o <a href="<?php echo URL; ?>data_hora">mapa de localização.</a></p>
 
 <h2>Quem organiza o FLISOL ?</h2>
 
