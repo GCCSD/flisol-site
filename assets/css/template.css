@@ -145,9 +145,19 @@ a img {
     margin: 0 auto;
 }
 
+.pictures {
+    width: 100%;
+    height: 300px;
+}
+
 @media (min-width: 900px) {
     .main-size {
         width: 900px;
+    }
+
+    .pictures {
+        width: 100%;
+        height: 600px;
     }
 }
 
