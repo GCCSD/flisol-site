@@ -6,6 +6,7 @@
         <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="<?php echo URL; ?>assets/css/template.css" type="text/css" media="screen" />
         <title><?php echo $title; ?></title>
+        <link rel="icon" href="<?php echo URL; ?>assets/images/favicon.png">
     </head>
 
     <body>
