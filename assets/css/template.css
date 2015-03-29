@@ -47,6 +47,11 @@ h2 {
     margin: 0 0 0 120px;
 }
 
+h3 {
+    clear: both;
+    padding-top: 20px;
+}
+
 ul {
     padding: 0 10px;
     margin: 0;
@@ -187,4 +192,17 @@ a img {
     margin: 0 auto;
     padding: 30px 0 20px 0;
     clear: both;
+}
+
+.autor {
+    text-align: right;
+    font-weight: bold;
+}
+
+.autor img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 3px solid #EE7F00;
+    margin-right: 20px;
 }
