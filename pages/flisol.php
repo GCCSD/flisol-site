@@ -2,7 +2,7 @@
 
 <p>
     O <a href="<?php echo URL; ?>organizadores" title="Site do GCCSD">GCCSD</a> traz para Santos,
-    pelo nono ano, o <strong>Festival Latino Americano de Instalação de Software Livre</strong>
+    pelo décimo ano, o <strong>Festival Latino Americano de Instalação de Software Livre</strong>
     (<strong>Flisol</strong>). O Flisol é um evento internacional, realizado anualmente, e que ocorre
     de forma simultânea em diversas cidades da América Latina. O Flisol é um evento descentralizado,
     onde cada local escolhido realiza seu festival simultaneamente com os outros pontos espalhados
