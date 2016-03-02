@@ -1,4 +1,4 @@
-<h2>Participe do FLISOL 2015!</h2>
+<h2>Participe do FLISOL 2016!</h2>
 
 <p>O <strong>FLISOL</strong> é o maior evento de difusão de Software Livre na América Latina. Vem sendo realizado desde 2005 e tem como objetivo principal, além de promover o uso do Software Livre, esclarecer sua filosofia, avanços, viabilidade técnica, social e econômica. O evento é destinado a estudantes, empresários e o público em geral.
 </p>
@@ -12,5 +12,5 @@
 </p>
 <p>
     Cadastre a sua proposta de palestra no nosso
-    <a href="http://call4paperz.com/events/flisol-santos-2015" title="Call4Paperz">Call4Paperz</a>.
+    <a href="http://call4paperz.com/events/flisol-santos-2016" title="Call4Paperz">Call4Paperz</a>.
 </p>
