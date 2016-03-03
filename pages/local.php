@@ -2,7 +2,6 @@
 
 <p>
     O Flisol Santos 2016 acontecerá na UNIMONTE, na Rangel Pestana, 99, Vila Mathias, Santos/SP.
-    <em>(Entrada pela R. Júlio de Mesquita)</em>
 </p>
 
 

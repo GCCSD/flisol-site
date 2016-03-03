@@ -11,6 +11,5 @@
     à software livre e tecnologias abertas?
 </p>
 <p>
-    Cadastre a sua proposta de palestra no nosso
-    <a href="http://call4paperz.com/events/flisol-santos-2016" title="Call4Paperz">Call4Paperz</a>.
+Entre em contato com o grupo através <a href="https://groups.google.com/forum/?fromgroups#!forum/gcc-sd">da lista de discussão</a>.
 </p>

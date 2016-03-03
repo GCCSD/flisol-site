@@ -12,7 +12,7 @@
 <p>
     O evento é livre, nesse dia há a instalação de <strong>Software Livre</strong>, como distribuições
     de <strong>Gnu/Linux</strong>, <strong>sistemas BSD</strong>, e aplicativos livres para Windows em
-    geral, além de palestras e oficinas.
+    geral, além de palestras no estilo "Lightining Talks" (palestras curtas de 15 a 30 min) e oficinas.
 </p>
 
 <h2>Objetivo do evento</h2>
@@ -41,6 +41,9 @@
 <h2>Quanto custa a participação no evento ?</h2>
 
 <p>A participação no evento é totalmente livre e gratuita.</p>
+
+<p><strong>Não se esqueça de trazer seu notebook para participar dos workshops!</strong></p>
+
 
 <h2>Saiba mais sobre o Flisol e o Software Livre</h2>
 

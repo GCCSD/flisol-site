@@ -8,16 +8,14 @@
 require __DIR__ . '/bootstrap.php';
 
 $page = $route;
-$eventTitle = 'Flisol Santos '.date("Y");
+$eventTitle = 'Flisol Santos 2016';
 
 switch ($route) {
     case '':
+    case 'principal':
         $page = 'principal';
         $title = $eventTitle;
-        break;
-    case 'principal':
-        $title = $eventTitle;
-        break;
+    break;
     case 'flisol':
         $title = 'Sobre o Flisol';
         break;
@@ -39,4 +37,4 @@ switch ($route) {
         break;
 }
 
-include('template.php');
+require_once 'template.php';
