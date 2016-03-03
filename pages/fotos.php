@@ -3,6 +3,7 @@
 
 <h2>Fotos</h2>
 <p>Veja as fotos dos eventos anteriores.</p>
+<h3>2014</h3>
 <div class="pictures">
     <img src="<?php echo URL; ?>assets/images/pictures/flisol5.jpg" alt="Flisol 2014" />
     <img src="<?php echo URL; ?>assets/images/pictures/flisol2.jpg" alt="Flisol 2014" />
