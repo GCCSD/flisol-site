@@ -8,29 +8,28 @@
 require __DIR__ . '/bootstrap.php';
 
 $page = $route;
+$eventTitle = 'Flisol Santos 2016';
 
 switch ($route) {
     case '':
-        $page = 'principal';
-        $title = 'Flisol Santos 2015';
-        break;
     case 'principal':
-        $title = 'Flisol Santos 2015';
-        break;
+        $page = 'principal';
+        $title = $eventTitle;
+    break;
     case 'flisol':
         $title = 'Sobre o Flisol';
         break;
     case 'programacao':
-        $title = 'Programação | Flisol Santos 2015';
+        $title = 'Programação | '.$eventTitle;
         break;
     case 'local':
-        $title = 'Local | Flisol Santos 2015';
+        $title = 'Local | '.$eventTitle;
         break;
     case 'organizadores':
-        $title = 'Organizadores | Flisol Santos 2015';
+        $title = 'Organizadores | '.$eventTitle;
         break;
     case 'fotos':
-        $titulo = 'Fotos | Flisol Santos 2015';
+        $title = 'Fotos | '.$eventTitle;
         break;
     default:
         $page = '404';
@@ -38,4 +37,4 @@ switch ($route) {
         break;
 }
 
-include('template.php');
+require_once 'template.php';
