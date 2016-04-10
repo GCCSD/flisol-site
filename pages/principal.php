@@ -4,12 +4,3 @@
 </p>
 
 <p>O evento se propõe a debater a produção de conteúdo de forma colaborativa na Internet, quais são os limites da liberdade de criação e inovação, leis de direitos autorais, as diferenças entre os softwares livres e proprietários, entre outros assuntos em pauta.</p>
-
-<h2>Seja um palestrante</h2>
-<p>
-    Quer ser um palestrante ou oferecer uma oficina sobre temas voltados
-    à software livre e tecnologias abertas?
-</p>
-<p>
-Entre em contato com o grupo através <a href="https://groups.google.com/forum/?fromgroups#!forum/gcc-sd">da lista de discussão</a>.
-</p>

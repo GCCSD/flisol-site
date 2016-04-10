@@ -53,7 +53,8 @@
                 <p>Festival Latino Americano de Instalação de Software Livre</p>
                 <p>
                     Flisol Santos :: 2011 - <?php echo date('Y'); ?> ::
-                    <a href="http://gccsd.com.br" title="GCCSD">GCCSD</a>
+                    <a href="http://gccsd.com.br" title="GCCSD">GCCSD</a> ::
+                    <a href="https://github.com/GCCSD/flisol-site/graphs/contributors" title="Colaboradores">Colaboradores</a>
                 </p>
             </div>
         </div>
