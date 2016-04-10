@@ -4,7 +4,6 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" />
         <link href="//fonts.googleapis.com/css?family=Lato:400,300,700,900" rel="stylesheet" type="text/css">
-        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <link rel="stylesheet" href="<?php echo URL; ?>assets/css/template.css" type="text/css" media="screen" />
         <title><?php echo $title; ?></title>
         <link rel="icon" href="<?php echo URL; ?>assets/images/favicon.png">
@@ -18,7 +17,7 @@
                     <h2>16 de Abril</h2>
                     <ul id="menu">
                         <li class="<?php echo ($page == 'principal') ? 'active' : ''; ?>">
-                            <a href="<?php echo URL; ?>"><i class="fa fa-home"></i></a>
+                            <a href="<?php echo URL; ?>">Principal</a>
                         </li>
                         <li class="<?php echo ($page == 'flisol') ? 'active' : ''; ?>">
                             <a href="<?php echo URL; ?>flisol">Flisol</a>
