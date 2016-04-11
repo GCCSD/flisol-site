@@ -46,6 +46,11 @@
             </div>
 
             <div id="rodape">
+                <h3>Apoio</h3>
+                <ul class="sponsors">
+                    <li><a href="http://unimonte.br">Unimonte</a></li>
+                    <li><a href="https://www.casadocodigo.com.br/">Casa do Código</a></li>
+                </ul>
                 <p>
                     <img src="<?php echo URL; ?>assets/images/flisol.png" alt="Flisol" />
                 </p>

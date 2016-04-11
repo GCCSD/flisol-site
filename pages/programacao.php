@@ -39,6 +39,11 @@
     <strong>Jullyson Moraes (Sonic)</strong> introduz o uso do Arduíno para automação residencial.
 </p>
 
+<h3>15h00 - 16h50 | Workshop | Música no PC com Arduino</h3>
+<p>
+    <strong>Caio de Marco</strong> e <strong>Fernanda Camara</strong> mostram como fazer instrumentos musicais usando o Arduino e papel.
+</p>
+
 <h3>15h30 - 16h20 | Palestra | Software Livre para B2B</h3>
 <p>
     <strong>Vinicius Eduardo</strong> mostra que B2B também pode ser Software Livre.

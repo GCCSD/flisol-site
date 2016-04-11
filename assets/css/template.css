@@ -194,6 +194,10 @@ a img {
     clear: both;
 }
 
+#rodape ul li {
+    list-style: none;
+}
+
 .autor {
     text-align: right;
     font-weight: bold;
