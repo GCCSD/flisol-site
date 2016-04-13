@@ -7,9 +7,9 @@
     <strong>Marcelo Rodrigues</strong> apresenta o framework AngularJS para desenvolvimento de aplicações web.
 </p>
 
-<h3>10h20 - 11h00 | Palestra | Quero ser um(a) desenvolvedor(a) PHP</h3>
+<h3>10h20 - 11h00 | Palestra | Desenvolvedores em equipes reduzidas</h3>
 <p>
-    <strong>Leonam Pereira Dias</strong> fala sobre começar no mundo do PHP.
+    <strong>Fábio Pereira</strong> nos mostra como manter a produtividade e encarar os desafios em equipes pequenas.
 </p>
 
 <h3>11h10 - 11h50 | Palestra | Flisol Santos 10 anos</h3>
@@ -19,9 +19,9 @@
 
 <h3>12h00 - 13h00 | Almoço</h3>
 
-<h3>13h00 - 13h40 | Palestra | Desenvolvedores em equipes reduzidas</h3>
+<h3>13h00 - 13h40 | Palestra | Quero ser um(a) desenvolvedor(a) PHP</h3>
 <p>
-    <strong>Fábio Pereira</strong> nos mostra como manter a produtividade e encarar os desafios em equipes pequenas.
+    <strong>Leonam Pereira Dias</strong> fala sobre começar no mundo do PHP.
 </p>
 
 <h3>13h00 - 14h50 | Workshop | Desenvolvimento para Android</h3>
